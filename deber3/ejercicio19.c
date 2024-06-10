@@ -2,7 +2,11 @@
 
 // Función para calcular el n-ésimo número triangular
 int numeroTriangular(int n) {
-    return (n * (n + 1)) / 2;
+    int suma = 0;
+    for (int i = 1; i <= n; i++) {
+        suma += i;
+    }
+    return suma;
 }
 
 int main() {
