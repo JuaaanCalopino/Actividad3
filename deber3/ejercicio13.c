@@ -1,8 +1,12 @@
 #include <stdio.h>
 
-// Función para calcular la suma de los números pares hasta n usando la fórmula
+// Función para calcular la suma de los números pares hasta n
 int sumaPares(int n) {
-    return n * (n + 1);
+    int suma = 0;
+    for (int i = 2; i <= n; i += 2) {
+        suma += i;
+    }
+    return suma;
 }
 
 int main() {
