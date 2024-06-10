@@ -21,4 +21,7 @@ Acontinuación de los enlaces de cada archivo:
 16.  ejercicio16 con for y funcion "sumaFraccionarios" : ( https://github.com/JuaaanCalopino/Actividad3/blob/74a029f76ec2b44aec414bd86509447ce01b087c/deber3/ejercicio16.c )
 17.  Ejercicio17 con for y funcion " productoFraccionarios" : ( https://github.com/JuaaanCalopino/Actividad3/blob/74a029f76ec2b44aec414bd86509447ce01b087c/deber3/ejercicio17.c)
 18.  ejercicio18 con for y funcion "esPrimo" : ( https://github.com/JuaaanCalopino/Actividad3/blob/74a029f76ec2b44aec414bd86509447ce01b087c/deber3/ejercicio18.c)
-19.  
+19.  ejercicio19 con for y función "numeroTriangular" : ( https://github.com/JuaaanCalopino/Actividad3/blob/f2e039f7fdd6f3237c72a0f54e5b07b22f427dfd/deber3/ejercicio19.c )
+20.  ejercicio20 con for y funcion "factorial" : ( https://github.com/JuaaanCalopino/Actividad3/blob/f2e039f7fdd6f3237c72a0f54e5b07b22f427dfd/deber3/ejercicio20.c )
+Dentro de cada link encontraras cada ejercicio, recuerda revisar con calma y sin estrés!!!
+`GRACIAS POR TU ATENCION` 
